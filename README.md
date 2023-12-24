@@ -3,10 +3,6 @@
 
 [Узнать подробнее о Мастерской](https://practicum.yandex.ru/masterskaya/).
 
-# Data Scientist Professional Training Course from Yandex.Practicum
-
- Репозиторий с проектами, которые были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science"
-
 | № | Название проекта  | Краткое описание | Инструменты |
 |--|--|--|--|
 |1| [Исследование данных сервиса “Яндекс.Музыка”](https://github.com/radmirsib/DataScience_Yandex/tree/2ac88503e4e9b1e2f28ec2c3bef5cad30b1b0366/01_yandex_music) | На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга | `Python`, `Pandas`, `Jupyter Notebook` |
