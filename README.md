@@ -1,2 +1,12 @@
-# officina_yandex
-Work projects completed in the Masterskaya from Yandex
+# Officina Yandex Practicum
+Репозиторий с рабочими проектами, которые были выполнены в Мастерской от Яндекс Практикума.
+Подробнее о Мастерской https://practicum.yandex.ru/masterskaya/
+
+# Data Scientist Professional Training Course from Yandex.Practicum
+
+ Репозиторий с проектами, которые были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science"
+
+| № | Название проекта  | Краткое описание | Инструменты |
+|--|--|--|--|
+|1| [Исследование данных сервиса “Яндекс.Музыка”](https://github.com/radmirsib/DataScience_Yandex/tree/2ac88503e4e9b1e2f28ec2c3bef5cad30b1b0366/01_yandex_music) | На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга | `Python`, `Pandas`, `Jupyter Notebook` |
+|2| [Исследование надёжности заёмщиков](https://github.com/radmirsib/DataScience_Yandex/tree/a5516b38595a3461d20bd0b3d8fb18e2f1d7742d/02_borrower_reliability) | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок | `Python`, `Pandas`, `Предобработка данных` |
