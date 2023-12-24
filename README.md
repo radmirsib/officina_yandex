@@ -1,6 +1,6 @@
 # Officina Yandex Practicum
 Репозиторий с рабочими проектами, которые были выполнены в Мастерской от Яндекс Практикума.
-Подробнее о Мастерской https://practicum.yandex.ru/masterskaya/
+Подробнее о Мастерской можно узнать [здесь](https://practicum.yandex.ru/masterskaya/).
 
 # Data Scientist Professional Training Course from Yandex.Practicum
 
