@@ -18,7 +18,7 @@ Cопоставление гео-названий с унифицированн�
 
 ## Исходные данные
 
-Используемые таблицы GeoNames(https://download.geonames.org/export/dump/) и их описание:
+Используемые таблицы [GeoNames](https://download.geonames.org/export/dump/) и их описание:
 
 - cities15000.txt - all cities with a population > 15000 or capitals (ca 25.000), see 'geoname' table for columns
 
