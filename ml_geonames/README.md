@@ -40,5 +40,5 @@ PostgreSQL, Python, Pandas, NLP, Transformers
 
 ## Статус проекта:
 
-Не завершен.
+Завершен.
 
